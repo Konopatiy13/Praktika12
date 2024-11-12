@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktika12</string>
+    <string name="image1">Картинка 1</string>
+    <string name="image2">Картинка 2</string>
+    <string name="image3">Картинка 3</string>
+    <string name="iV">image view</string>
+</resources>
